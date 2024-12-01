@@ -2,6 +2,7 @@
 The Weather Forecast Project is a web-based application that allows users to get real-time weather information for any city around the world. It pulls data from an external API (typically OpenWeatherMap) and displays key weather details, such as temperature, humidity, and weather conditions. The project typically includes:
 
 Key Features:
+
 City Search: Users can input a city name, and the app fetches weather details for that location.
 Weather Information Display: Once a city is searched, the app shows weather data like:
 Current temperature (in Celsius or Fahrenheit)
