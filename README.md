@@ -23,3 +23,6 @@ CSS: For styling the user interface, including layout, colors, fonts, and animat
 JavaScript: For fetching the weather data from the API, processing it, and updating the DOM.
 
 API: OpenWeatherMap API (or another weather data provider) is used to get weather information.
+
+# Final_Output:
+![image](https://github.com/user-attachments/assets/4757a923-f51e-407a-ac28-23711c784e75)
